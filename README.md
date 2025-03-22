@@ -1,1 +1,1 @@
-# 2025_CVPR_DIA
+# Dynamic Integration of Task-Specific Adapters for Class Incremental Learning
